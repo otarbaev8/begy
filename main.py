@@ -1,1 +1,2 @@
 print('bekzat')
+prit('dinora')
