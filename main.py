@@ -1,2 +1,7 @@
-print('bekzat')
-prit('dinora')
+print('bekzat').
+
+
+print('dinora')
+
+print('nursulu')
+
