@@ -1,1 +1,2 @@
 print('bekzat')
+print('nursulu')
